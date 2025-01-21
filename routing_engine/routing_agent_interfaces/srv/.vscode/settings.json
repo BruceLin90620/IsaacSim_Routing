@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/csl/ros2_ws/install/routing_agent/lib/python3.10/site-packages",
+        "/home/csl/ros2_ws/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/csl/ros2_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/csl/ros2_ws/install/simple_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl/ros2_ws/install/routing_engine/lib/python3.10/site-packages",
+        "/home/csl/ros2_ws/install/rosidl_runtime_py/lib/python3.10/site-packages",
+        "/home/csl/ros2_ws/install/my_package/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/csl/ros2_ws/install/routing_agent/lib/python3.10/site-packages",
+        "/home/csl/ros2_ws/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/csl/ros2_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/csl/ros2_ws/install/simple_interfaces/local/lib/python3.10/dist-packages",
+        "/home/csl/ros2_ws/install/routing_engine/lib/python3.10/site-packages",
+        "/home/csl/ros2_ws/install/rosidl_runtime_py/lib/python3.10/site-packages",
+        "/home/csl/ros2_ws/install/my_package/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

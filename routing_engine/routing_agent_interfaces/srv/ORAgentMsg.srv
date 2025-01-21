@@ -1,0 +1,10 @@
+#waypointgraph
+float64[] waypoint_graph_locations
+int64[] waypoint_graph_edges
+int64[] waypoint_graph_offsets
+#taskandvehicles           
+float64[] task_locations
+float64[] vehicle_start_location
+---
+int64[] routes_node_index
+float64[] routes_location

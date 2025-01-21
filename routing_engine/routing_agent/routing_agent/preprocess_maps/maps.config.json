@@ -1,0 +1,18 @@
+{
+    "map_0":{"file_path":"map_0.json",
+    "entry_points":{
+        "2":{"map_id":"map_1","node_index":"0"},
+        "3":{"map_id":"map_2","node_index":"2"}
+    }},
+    "map_1":{"file_path":"map_1.json",
+    "entry_points":{
+        "0":{"map_id":"map_0","node_index":"2"},
+        "2":{"map_id":"map_2","node_index":"0"}}
+        },
+    "map_2":{"file_path":"map_2.json",
+    "entry_points":{
+        "0":{"map_id":"map_1","node_index":"2"},
+        "2":{"map_id":"map_0","node_index":"3"}
+        }
+}
+}

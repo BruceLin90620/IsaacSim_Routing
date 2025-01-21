@@ -1,0 +1,4 @@
+bool can_arrive
+string i_am_at
+---
+string path_to_next_task

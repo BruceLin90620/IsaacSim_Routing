@@ -1,0 +1,5 @@
+string maps_config_data
+---
+bool can_merge
+string global_waypoint_graph_file_data
+string global_waypoint_graph_file_location

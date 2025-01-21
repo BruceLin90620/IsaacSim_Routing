@@ -1,0 +1,6 @@
+image: lab_map.png
+resolution: 0.1 # 0.117
+origin: [-50.0, -50.0, 0.0] 
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196

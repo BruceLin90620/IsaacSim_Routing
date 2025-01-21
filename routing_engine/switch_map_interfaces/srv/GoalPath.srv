@@ -1,0 +1,3 @@
+PathPoint[] routing_path  #[[mapid, x, y],[mapid, x, y]]
+---
+bool success

@@ -1,0 +1,94 @@
+# # csl inside
+# entry_points:
+#   - map_id: 0 # coordinates: [x, y, z, x, y, z, w]
+#     points:
+#       - point_id: 0
+#         coordinates:
+#           [0.721059, -0.0884507]
+#       - point_id: 1
+#         coordinates:
+#           [1.2029, -7.05731]
+#       - point_id: 2
+#         coordinates:
+#           [5.64424, -7.05731]
+#   - map_id: 1
+#     points:
+#       - point_id: 0
+#         coordinates:
+#           [-0.0161545, -3.47788]
+#       - point_id: 1
+#         coordinates:
+#           [4.35824, -3.44802]
+#       - point_id: 2
+#         coordinates:
+#           [4.65265, 3.76633]
+#       - point_id: 3
+#         coordinates:
+#           [1.31747, 4.13396]
+#   - map_id: 2
+#     points:
+#       - point_id: 0
+#         coordinates:
+#           [0.674482, 0.0901538]
+#       - point_id: 1
+#         coordinates:
+#           [0.710017, 5.4503]
+
+#csl outside
+entry_points:
+  - map_id: 0 # coordinates: [x, y, z, x, y, z, w]
+    points:
+      - point_id: 0
+        coordinates:
+          [1.57841, 0.413108]
+      - point_id: 1
+        coordinates:
+          [2.4572, 24.1905]
+          
+  - map_id: 1
+    points:
+      - point_id: 0
+        coordinates:
+          [0.996263, 0.2118]
+      - point_id: 1
+        coordinates:
+          [2.79438, -29.357]
+      - point_id: 2
+        coordinates:
+          [-4.46526, -31.9094]
+      - point_id: 3
+        coordinates:
+          [2.24764, -64.0794]
+
+  - map_id: 2
+    points:
+      - point_id: 0
+        coordinates:
+          [0.884402, 0.123075]
+      - point_id: 1
+        coordinates:
+          [-1.98478, -8.7861]
+      - point_id: 2
+        coordinates:
+          [-116.532, -8.07352]
+      - point_id: 3
+        coordinates:
+          [-115.957, -3.32845]
+
+  - map_id: 3
+    points:
+      - point_id: 0
+        coordinates:
+          [0.674482, 0.0901538]
+      - point_id: 1
+        coordinates:
+          [-87.1951, 19.8134]
+
+  - map_id: 4
+    points:
+      - point_id: 0
+        coordinates:
+          [1.40068, 0.00853944]
+      - point_id: 1
+        coordinates:
+          [23.0676, 55.1641]

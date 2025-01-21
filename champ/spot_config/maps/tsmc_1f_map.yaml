@@ -1,0 +1,6 @@
+image: tsmc_1f_map.png
+resolution: 0.12 # 0.117
+origin: [277.15, -48.65, 0.0] # [409.4415, -0.0585, 0.0000] # [277.15, -48.65, 0.0] # [384.95, -67.55, 0.0000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196

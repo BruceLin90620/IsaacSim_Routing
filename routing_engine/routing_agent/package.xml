@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>routing_agent</name>
+  <version>0.0.0</version>
+  <description>TODO: Package description</description>
+  <maintainer email="csl@todo.todo">csl</maintainer>
+  <license>Apache-2.0</license>
+
+  <depend>rclpy</depend>
+  <depend>routing_agent_interfaces</depend>
+  <depend>rosidl_runtime_py</depend>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+  <exec_depend>tutorial_interfaces</exec_depend>
+  <exec_depend>python3-elkai</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
