@@ -50,6 +50,11 @@ cd /home/bruce/IsaacSim/IsaacSim-ros_workspaces/humble_ws
 ros2 run spot_routing_nav waypoint_nav
 ```
 
+## **Demo**
+### City Science Lab Test Demo
+<a href="https://www.youtube.com/embed/frTH0QERYtQ?si=7wk3lFImAGLvmFTA" title="Link Title"><img src="./images/demo_csl.png" alt="Alternate Text" /></a>
+
+
 ## Notes
 
 - Make sure to run each command in a separate terminal
