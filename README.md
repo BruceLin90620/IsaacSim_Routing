@@ -12,6 +12,9 @@ This repository contains setup and running instructions for Spot robot navigatio
 
 - Spot robot packages configured in your ROS 2 workspace
 
+##  Data Download
+https://drive.google.com/file/d/1bb5PszpRcnLnAnWs61V7SMJT_0B2ivyR/view?usp=sharing
+
 ## Running the Simulation
 
 ### 1\. Launch Isaac Sim Spot Navigation
